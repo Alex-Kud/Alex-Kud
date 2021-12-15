@@ -1,10 +1,10 @@
 ### Hi there 👋
-🔭 I am currently working on creating a dating site
-🌱 I’m currently learning in Penza State University
-👯 I’m looking to collaborate 
-📫 How to reach me:
-    VK: https://vk.com/alex_kudashov
-    Instagram: https://www.instagram.com/_alex_kud_/
+<div>🔭 I am currently working on creating a dating site <br>
+🌱 I’m currently learning in Penza State University <br>
+👯 I’m looking to collaborate <br>
+📫 How to reach me: <br>
+    VK: https://vk.com/alex_kudashov <br>
+    Instagram: https://www.instagram.com/_alex_kud_/ <br></div>
 <!--
 **Alex-Kud/Alex-Kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
