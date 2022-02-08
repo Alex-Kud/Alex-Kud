@@ -1,5 +1,6 @@
 ## Hi 👋
 ### I am Alex Kudashov from Penza
+🧑‍💻The main language today is `C++`  
 🔭 Recently started learning `C#`  
 🌱 I am currently working on an exchange catalog for collectors  
 📚 I’m currently learning in Penza State University  
