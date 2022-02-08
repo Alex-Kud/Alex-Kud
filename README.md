@@ -1,10 +1,21 @@
-### Hi there 👋
-<div>🔭 I am currently working on creating a dating site <br>
-🌱 I’m currently learning in Penza State University <br>
-👯 I’m looking to collaborate <br>
-📫 How to reach me: <br>
-    VK: https://vk.com/alex_kudashov <br>
-    Instagram: https://www.instagram.com/_alex_kud_/ <br></div>
+## Hi 👋
+### I am Alex Kudashov from Penza
+🔭 Recently started learning `C#`
+🌱 I am currently working on an exchange catalog for collectors
+📚 I’m currently learning in Penza State University
+👯 I’m looking to collaborate
+📫 How to reach me:
+    VK: https://vk.com/alex_kudashov
+    Instagram: https://www.instagram.com/_alex_kud_/
+    
+## Statistics
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Kud&show_icons=true&hide_border=true&theme=dark&count_private=true&line_height=28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Kud&&langs_count=10&layout=compact&theme=dark&hide_border=true" >
+</div>
+    
+    
+    
 <!--
 **Alex-Kud/Alex-Kud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
