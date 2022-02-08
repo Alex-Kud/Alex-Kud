@@ -1,12 +1,12 @@
 ## Hi 👋
 ### I am Alex Kudashov from Penza
-🔭 Recently started learning `C#`
-🌱 I am currently working on an exchange catalog for collectors
-📚 I’m currently learning in Penza State University
-👯 I’m looking to collaborate
-📫 How to reach me:
-    VK: https://vk.com/alex_kudashov
-    Instagram: https://www.instagram.com/_alex_kud_/
+🔭 Recently started learning `C#`  
+🌱 I am currently working on an exchange catalog for collectors  
+📚 I’m currently learning in Penza State University  
+👯 I’m looking to collaborate  
+📫 How to reach me:  
+VK: https://vk.com/alex_kudashov  
+Instagram: https://www.instagram.com/_alex_kud_/
     
 ## Statistics
 <div>
